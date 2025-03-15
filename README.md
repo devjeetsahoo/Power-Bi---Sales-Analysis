@@ -72,7 +72,9 @@ Key areas of focus:
 
 ##Snapshots from the Dashboard
 
-Overview of Sales & Profit KPIs
+Overview of Sales & Profit KPIs,
+
+![Image](https://github.com/user-attachments/assets/49448f2d-ca3f-4fb1-81f6-e82ad3374786)
 
 Regional Sales Performance
 
