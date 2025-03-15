@@ -3,7 +3,10 @@
 ### Dashboard Link: [Insert Power BI Dashboard Link]
 
 ## Dashboard
+
 ![Image](https://github.com/user-attachments/assets/4420c04f-51ae-4b8d-9662-e485f9039331)
+
+![Image](https://github.com/user-attachments/assets/a7791866-dfcd-435a-982c-4ab821b7e223)
 
 
 ## Problem Statement
