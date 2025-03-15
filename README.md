@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard
 
-### Dashboard Link: [Insert Power BI Dashboard Link]
+### Dashboard Link: [(https://bpitdelhi-my.sharepoint.com/:u:/g/personal/devjeet25ai-ds22_bpitindia_edu_in/ESIL4UQ7PMBOjaNGJQsCK_kBXGSYmzDkTL4O3f6dRoVgjg?e=P4jvfm)]
 
 ## Dashboard
 
