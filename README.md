@@ -2,6 +2,8 @@
 
 ### Dashboard Link: [Insert Power BI Dashboard Link]
 
+## Dashboard
+![Image](https://github.com/user-attachments/assets/4420c04f-51ae-4b8d-9662-e485f9039331)
 
 
 ## Problem Statement
