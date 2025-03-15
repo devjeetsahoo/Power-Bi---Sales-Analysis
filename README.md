@@ -2,6 +2,8 @@
 
 ### Dashboard Link: [Insert Power BI Dashboard Link]
 
+
+
 ## Problem Statement
 
 This dashboard provides a comprehensive analysis of sales performance, helping businesses gain insights into revenue trends, customer segments, product performance, and regional sales distribution. It enables decision-makers to identify key areas for improvement and optimize strategies to maximize profits.
@@ -81,7 +83,9 @@ Regional Sales Performance,
 ![Image](https://github.com/user-attachments/assets/24019600-2567-4de9-878e-34c52709f978)
 
 
-Monthly Sales Trends
+Monthly Sales Trends,
+
+![Image](https://github.com/user-attachments/assets/2517cbff-c925-4645-ab6f-edae1e56f2fc)
 
 
 
